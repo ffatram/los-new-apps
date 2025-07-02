@@ -159,7 +159,7 @@
                                 <td>Alexis Clarke</td>
                                 <td>Joseph Parker</td>
                                 <td>03 Oct, 2021</td>
-                                <td><span class="badge bg-info-subtle text-info">Re-open</span></td>
+                                <td><span class="badge bg-info-subtle text-info btn-halo">Re-open</span></td>
                                 <td><span class="badge bg-danger">High</span></td>
                                 <td>
                                     <div class="dropdown d-inline-block">
